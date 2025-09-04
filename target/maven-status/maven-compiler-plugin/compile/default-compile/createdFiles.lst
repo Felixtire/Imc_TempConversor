@@ -1,0 +1,9 @@
+service/Cadastro.class
+com/exemplo/App.class
+domain/Pessoa.class
+service/Conversor_Temp.class
+persistence/Repository.class
+cli/CliParsing.class
+service/Imc.class
+domain/InvalidInput.class
+domain/Categoria.class
